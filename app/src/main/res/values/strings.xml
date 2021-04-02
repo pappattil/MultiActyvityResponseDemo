@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiActivityResponse</string>
+    <string name="text_cancelled">cancelled</string>
+    <string name="demo">DEMO</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="start">Start</string>
+    <string name="hello_data">Hello Data</string>
+</resources>
